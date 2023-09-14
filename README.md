@@ -1,6 +1,6 @@
 # Site biográfico sobre Steve Jobs
 Site pronto pego no site ACERVO LIMA que tem como objetivo disponibilizar sites parar ajudar pessoas que estão começando a programar. O site fala sobre Steve Jobs em um tipo de site biórafico, revisando e dando informações sobre sua vida e trabalho
-
+https://blog.portalpos.com.br/app/uploads/2019/07/steve-jobs.png
 ## Descrição do projeto
 O site tem diversas informações sobre Steve Jobs, como data de nascimento aonde nasceu, qual local viveu, onde trabalhou seus projetos e etc. É uma wiki muito boa e informativa pra quem se interessa sobre seu trabalho 
 
