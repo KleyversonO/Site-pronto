@@ -13,4 +13,4 @@ HTML 5. CSS 3
 
 ## Referência
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
-* [Tribute_page_to_Steve_Jobs] (https://codepen.io/coderofdark/pen/BzPrMZ) - Site biográfico para Steven Jobs
+* [AcervoLima] (https://codepen.io/coderofdark/pen/BzPrMZ) - Site biográfico para Steven Jobs
