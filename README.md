@@ -1,6 +1,7 @@
 # Site biográfico sobre Steve Jobs
 Site pronto pego no site ACERVO LIMA que tem como objetivo disponibilizar sites parar ajudar pessoas que estão começando a programar. O site fala sobre Steve Jobs em um tipo de site biórafico, revisando e dando informações sobre sua vida e trabalho
 
+![Site](img/site.png)
 
 ## Descrição do projeto
 O site foi feito na intenção de incentivar as pessoas a pesquisar melhor, e pegar um site pronto e transportar para o VSCODE. Foi feito na aula de Fundamentois de desenvolvimento web
