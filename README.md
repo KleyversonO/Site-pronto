@@ -17,4 +17,4 @@ Steve Jobs ou Steven Paul foi um empresário nascido em San Francisco, filho de 
 
 ## Referência
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
-* [AcervoLima](https://codepen.io/coderofdark/pen/BzPrMZ) - Site biográfico para Steven Jobs
+* [GitHub Gist](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Dicas de como deixar um README melhor
